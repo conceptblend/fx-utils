@@ -1,0 +1,10 @@
+{
+  "name": "fx-utils",
+  "version": "1.0.0",
+  "description": "A collection of utils for fxhash",
+  "main": "index.js",
+  "repository": "https://github.com/conceptblend/fx-utils.git",
+  "author": "conceptblend <the.concept.blend@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
